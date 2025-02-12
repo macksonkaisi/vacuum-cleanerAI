@@ -1,6 +1,5 @@
 # TASK 1 EXTENDED
 # in here the agent is being fed data from a file having some random details.
-#the vacuum.txt has more than 500 lines
 from datetime import time
 import time
 
