@@ -1,4 +1,4 @@
-# room 43 is in butterfly building
+
 import time
 
 ButterFly={
